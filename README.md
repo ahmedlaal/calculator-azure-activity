@@ -9,6 +9,7 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
+[![Build Status](https://dev.azure.com/k201676/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status%2Fahmedlaal.calculator-azure-activity?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/k201676/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=3&branchName=refs%2Fpull%2F1%2Fmerge)
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
